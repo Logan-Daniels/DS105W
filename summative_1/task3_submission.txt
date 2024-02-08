@@ -1,0 +1,84 @@
+    1  1705916215: invalid timestampls
+    2  1705916268: invalid timestampopen summative1
+    3  1705916282: invalid timestampopen /summative1/
+    4  1705916294: invalid timestampopen \summative1Is this summative one?
+    5  1705916684: invalid timestamppwd
+    6  1705916692: invalid timestamp$HOME
+    7  1705916708: invalid timestampls
+    8  1705916825: invalid timestampmkdir .week02
+    9  1705916848: invalid timestampcd/.week02
+   10  1705916857: invalid timestampls
+   11  1705916867: invalid timestampcd
+   12  1705916904: invalid timestampcd $HOME
+   13  1705916907: invalid timestampls
+   14  1705916912: invalid timestamppwd
+   15  1705916926: invalid timestampcd /home/student_30597
+   16  1705916931: invalid timestampls
+   17  1705916947: invalid timestampmkdir .week02
+   18  1705916975: invalid timestampcd /home/student_30597/.week02
+   19  1705917007: invalid timestampman
+   20  1705917014: invalid timestampman man
+   21  1705917023: invalid timestampls
+   22  1705917123: invalid timestampvim secret_restaurant.txt
+   23  1705917279: invalid timestampvim secret_address.txt
+   24  1705917319: invalid timestampls
+   25  1705917366: invalid timestamprm week02
+   26  1705917392: invalid timestampman rm
+   27  1705917425: invalid timestampls
+   28  1705917431: invalid timestampcd ~
+   29  1705917438: invalid timestampla
+   30  1705917440: invalid timestampls
+   31  1705917453: invalid timestampls -a
+   32  1705917530: invalid timestampexit
+   33  1705919196: invalid timestampls
+   34  1705919209: invalid timestampcd ./.week02
+   35  1705919214: invalid timestamppwd
+   36  1705919224: invalid timestampexit
+   37  1705919466: invalid timestampcd /.week02
+   38  1705919470: invalid timestampls
+   39  1705919473: invalid timestampls -a
+   40  1705919487: invalid timestampcd ./.week02
+   41  1705919490: invalid timestampls
+   42  1705919500: invalid timestampcat my_secret_address.txt
+   43  1706470137: invalid timestampls
+   44  1706470167: invalid timestamppwd
+   45  1706470188: invalid timestampcd /home/student_30597/summative1
+   46  1706470192: invalid timestamppwd
+   47  1706470200: invalid timestampls
+   48  1706470220: invalid timestampopen ../your_instructions.md
+   49  1706470246: invalid timestampopen /../your_instructions.md
+   50  1706470278: invalid timestampopen /home/student_30597/summative1/your_instructions.md
+   51  1706470553: invalid timestampmkdir task1
+   52  1706470555: invalid timestampls
+   53  1706470565: invalid timestampcd ~/task1
+   54  1706470601: invalid timestampcd task1
+   55  1706470606: invalid timestampls
+   56  1706470692: invalid timestampvim my_fav_social_media_channel.txt
+   57  1706471027: invalid timestampls
+   58  1706471046: invalid timestampoopen my_fav_social_media_channel.txt
+   59  1706471060: invalid timestampopen my_fav_social_media_channel.txt
+   60  1706471097: invalid timestamppwd
+   61  1706471111: invalid timestampexit
+   62  1706471339: invalid timestampls
+   63  1706471361: invalid timestampstat ~/summative1/task1/my_fav_social_media_channel.txt >> ~/summative1/task1_submission.txt
+   64  1706471390: invalid timestampls
+   65  1706471407: invalid timestampcd summative1
+   66  1706471417: invalid timestampls
+   67  1706471444: invalid timestampopen task1_submission.txt
+   68  1706471475: invalid timestampexit
+   69  1706471587: invalid timestampls
+   70  1706471596: invalid timestampcd summative1
+   71  1706471599: invalid timestampcd task2
+   72  1706471604: invalid timestampls
+   73  1706471682: invalid timestampopen dataset.csv
+   74  1706471771: invalid timestampls
+   75  1706471782: invalid timestampopen stable-diffusion-images
+   76  1706471788: invalid timestamppwd
+   77  1706471807: invalid timestampopen /home/student_30597/summative1/task2/stable-diffusion-images
+   78  1706471830: invalid timestampcd /home/student_30597/summative1/task2/stable-diffusion-images
+   79  1706471832: invalid timestampls
+   80  1706471878: invalid timestampopen 00062.png
+   81  1706471887: invalid timestamppwd
+   82  1706471957: invalid timestampexit
+   83  2024-01-28 20:07:29 history -a
+   84  2024-01-28 20:07:29 history >> ~/summative1/task3_submission.txt

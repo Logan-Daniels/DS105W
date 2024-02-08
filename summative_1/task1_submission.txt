@@ -1,0 +1,8 @@
+  File: /home/student_30597/summative1/task1/my_fav_social_media_channel.txt
+  Size: 54        	Blocks: 8          IO Block: 4096   regular file
+Device: 10304h/66308d	Inode: 6031154     Links: 1
+Access: (0644/-rw-r--r--)  Uid: (  984/student_30597)   Gid: ( 1000/   ds105)
+Access: 2024-01-28 19:44:20.138585489 +0000
+Modify: 2024-01-28 19:43:02.352480843 +0000
+Change: 2024-01-28 19:43:02.352480843 +0000
+ Birth: 2024-01-28 19:43:02.352480843 +0000
